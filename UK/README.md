@@ -92,8 +92,6 @@ Population data was acquired from the following sources:
 
 ## License
 
-## License
-
 UK Subsidies & The Referendum
 Copyright (C) 2016 Krich Balazs
 
