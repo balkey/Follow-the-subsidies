@@ -20,7 +20,7 @@ Changing with zoom levels, both electoral and subsidy data should be aggregated 
 ## Demo
 
 Building a custom map application is in the works. Until then, the data is published @ Carto:
-https://balkey.carto.com/viz/c97f6030-5179-11e6-aa76-0e05a8b3e3d7/embed_map
+https://balkey.carto.com/viz/ddd30c32-528a-11e6-9801-0ee66e2c9693/embed_map
 
 ## Data model
 
@@ -66,24 +66,24 @@ To get the parenting LAU1 units name for each transaction, we used the transacti
 
 Subsidy data was scraped from the following sources:
 
-* [England ERDF 2007-2013](https://www.gov.uk/guidance/erdf-programmes-progress-and-achievements)
-* [England ESF 2007-2013](https://www.gov.uk/government/collections/esf-funding-allocations-2007-to-2013)
-* [Scotland - Highlands and Islands ERDF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17404/HIERDFJuly2013)
-* [Scotland - Highlands and Islands ESFF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17404/HIESFJuly2013)
-* [Scotland - Lowlands and Uplands ERDF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17405/LUPSERDFPojectsJul2013)
-* [Scotland - Lowlands and Uplands ESF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17405/LUPSESFProjectsJul13)
-* [Wales ERDF, ESF 2007-2013](http://gov.wales/funding/eu-funds/previous/searchprojects/?lang=en)
-* [~~Wales ERDF, ESF 2014-2020~~](http://gov.wales/funding/eu-funds/2014-2020/looking/approved-projects/?lang=en)
-* [Northern Ireland ERDF, ESF 2007-2013](http://successes.eugrants.org/default.aspx)
+* [England ERDF 2007-2013](https://www.gov.uk/guidance/erdf-programmes-progress-and-achievements){:target="_blank"}
+* [England ESF 2007-2013](https://www.gov.uk/government/collections/esf-funding-allocations-2007-to-2013){:target="_blank"}
+* [Scotland - Highlands and Islands ERDF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17404/HIERDFJuly2013){:target="_blank"}
+* [Scotland - Highlands and Islands ESFF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17404/HIESFJuly2013){:target="_blank"}
+* [Scotland - Lowlands and Uplands ERDF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17405/LUPSERDFPojectsJul2013){:target="_blank"}
+* [Scotland - Lowlands and Uplands ESF 2007-2013](http://www.gov.scot/Topics/Business-Industry/support/17404/StructuralFunds2007-201/17405/LUPSESFProjectsJul13){:target="_blank"}
+* [Wales ERDF, ESF 2007-2013](http://gov.wales/funding/eu-funds/previous/searchprojects/?lang=en){:target="_blank"}
+* [~~Wales ERDF, ESF 2014-2020~~](http://gov.wales/funding/eu-funds/2014-2020/looking/approved-projects/?lang=en){:target="_blank"}
+* [Northern Ireland ERDF, ESF 2007-2013](http://successes.eugrants.org/default.aspx){:target="_blank"}
 
 
 ### Population data
 
 Population data was acquired from the following sources:
 
-* [Scotland - LAU1/NUTS4 population estimates by sex and single year of age 2011](http://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/nuts-population-estimates)
-* [Northern Ireland - List of districts in Northern Ireland by population from the 2011 Census](https://en.wikipedia.org/wiki/List_of_districts_in_Northern_Ireland_by_population)
-* [England, Wales - Mid 2011 population estimates (Census based) on 2011 wards ](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental)
+* [Scotland - LAU1/NUTS4 population estimates by sex and single year of age 2011](http://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/nuts-population-estimates){:target="_blank"}
+* [Northern Ireland - List of districts in Northern Ireland by population from the 2011 Census](https://en.wikipedia.org/wiki/List_of_districts_in_Northern_Ireland_by_population){:target="_blank"}
+* [England, Wales - Mid 2011 population estimates (Census based) on 2011 wards ](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental){:target="_blank"}
 
 ### Spatial data
 
